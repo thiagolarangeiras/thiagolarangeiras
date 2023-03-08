@@ -1,4 +1,7 @@
-### Hi there 👋
+### Opa! 
+
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolarangeiras&show_icons=true&theme=dark#gh-dark-mode-only)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolarangeiras&show_icons=true&theme=default#gh-light-mode-only)
 
 <!--
 **thiagolarangeiras/thiagolarangeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
