@@ -1,8 +1,18 @@
-### Opa! 
+# Opa! 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolarangeiras&theme=dark)   
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolarangeiras&show_icons=true&theme=dark)
+## Linguagens Usadas
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolarangeiras&exclude_repo=satc-banco-de-dados&layout=pie)](https://github.com/thiagolarangeiras) 
+* Java
+* JavaScript
+* Python
+* C
+* C#
+* SQL
 
+
+
+
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolarangeiras&show_icons=true)](https://github.com/thiagolarangeiras)
 
 <!--
 **thiagolarangeiras/thiagolarangeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
