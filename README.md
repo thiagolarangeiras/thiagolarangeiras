@@ -1,17 +1,4 @@
-# Opa! 
-
-## Linguagens Usadas
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolarangeiras&exclude_repo=satc-banco-de-dados&layout=pie)](https://github.com/thiagolarangeiras) 
-* Java
-* JavaScript
-* Python
-* C
-* C#
-* SQL
-
-
-
-
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolarangeiras&exclude_repo=satc-banco-de-dados&layout=compact&langs_count=8)](https://github.com/thiagolarangeiras)
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolarangeiras&show_icons=true)](https://github.com/thiagolarangeiras)
 
 <!--
